@@ -1,4 +1,4 @@
-### Hey, this is Rochita! 👋
+### Hi, this is Rochita! 👋
 
 - Based out of Burnaby, British Columbia 🏔️
 - Interested in Data Science, Machine Learning & Big Data 🌱
